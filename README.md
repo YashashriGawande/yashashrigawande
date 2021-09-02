@@ -2,7 +2,7 @@
 <h1 align="center">I'm Yashashri Gawande</h1>
 <h3 align="center">An enthusiastic learner and a passionate developer with creative insights</h3>
 
-- 📫 How to reach me **yashashrigawande1@gmail.com**
+- 📫 How to reach me **yashashrigawande02@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
