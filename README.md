@@ -4,8 +4,8 @@
 
 ### About me 
 <ul>
- <li>I am a sophomore pursuing Btech at MITAOE Pune</li>
-<li>I am passionate about Software Development and Technical Blogging</li>
+ <li>🎓 I am a Sophomore pursuing Btech at MITAOE Pune</li>
+<li>👨‍💻 I am passionate about Software Development and Technical Blogging</li>
 <li>Technology excites me and I have always been eager to bring value to the tech community through hard work and commitment to quality. I like to learn and explore new things and implement it by learning practically.</li>
   </ul>
 
