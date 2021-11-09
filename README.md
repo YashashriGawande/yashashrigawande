@@ -5,7 +5,7 @@
 ### About me 
 <ul>
  <li>I am a sophomore pursuing Btech at MITAOE Pune</li>
-<li>I am passionate about Frontend Development and Technical Blogging and making Open Source contributions.</li>
+<li>I am passionate about Software Development and Technical Blogging</li>
 <li>Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my  learnings practically.</li>
   </ul>
 
