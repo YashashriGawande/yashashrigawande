@@ -6,7 +6,7 @@
 <ul>
  <li>I am a sophomore pursuing Btech at MITAOE Pune</li>
 <li>I am passionate about Software Development and Technical Blogging</li>
-<li>Being a technophile I have always been eager to bring value to the tech community through hard work and commitment to quality. I love to learn new things and implement my  learnings practically.</li>
+<li>Technology excites me and I have always been eager to bring value to the tech community through hard work and commitment to quality. I like to learn and explore new things and implement it by learning practically.</li>
   </ul>
 
 ### Experiences <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
