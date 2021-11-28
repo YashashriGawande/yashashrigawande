@@ -22,7 +22,8 @@
 
 
 ### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+</center>
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](http://www.linkedin.com/in/yashashri-gawande-3b7109206) &nbsp; &nbsp; [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](http://github.com/YashashriGawande) &nbsp; &nbsp;   [<img src="https://user-images.githubusercontent.com/69964629/117806794-67aad280-b278-11eb-98e5-1f00b6c77b84.png" alt="Medium Logo" width="30">](https://medium.com/@yashashrigawande02) &nbsp; &nbsp; [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:yashashrigawande02@gmail.com)
 
