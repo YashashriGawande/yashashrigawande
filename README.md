@@ -5,13 +5,12 @@
 ### About me 
 <ul>
  <li>🎓 I am a Sophomore pursuing Btech at MITAOE Pune</li>
-<li>👨‍💻 I am passionate about Software Development and Technical Blogging</li>
+<li>👨‍💻 I am passionate about Software Development and Artificial Intelligence</li>
 <li>Technology excites me and I have always been eager to bring value to the tech community through hard work and commitment to quality. I like to learn and explore new things and implement it by learning practically.</li>
   </ul>
 
 ### Experiences <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
- - Founder at [Creators Cup](https://creatorscup.github.io/) 
  - Open Source Contributor at [GWOC'21](https://gwoc.girlscript.tech/)
  - Author on [Medium](https://medium.com/) 
 
@@ -28,3 +27,5 @@
 ![Yashashri's github stats](https://github-readme-stats.vercel.app/api?username=YashashriGawande&show_icons=true&hide_border=true)
 <br />
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+
+
