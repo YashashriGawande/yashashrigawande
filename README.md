@@ -5,9 +5,7 @@
 ### About me 
 <ul>
  <li>🎓 I am a Sophomore pursuing Btech at MITAOE Pune</li>
-<li>👨‍💻 I am passionate about Software Development and Artificial Intelligence</li>
-<li>Technology excites me and I have always been eager to bring value to the tech world through hard work and commitment to quality.</li>
-  </ul>
+<li>👨‍💻 I am passionate about Software Development and Artificial Intelligence. Technology excites me and I have always been eager to bring value to the tech world through hard work and commitment to quality.</li>
 
 ### Experiences <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
