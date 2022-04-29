@@ -5,7 +5,8 @@
 ### About me 
 <ul>
  <li>🎓 I am a Sophomore pursuing Btech at MITAOE Pune</li>
-<li>👨‍💻 I am passionate about Software Development and Artificial Intelligence. Technology excites me and I have always been eager to bring value to the tech world through hard work and commitment to quality.</li>
+ <li>👨‍💻 I am passionate about Software Development and Artificial Intelligence.</li>
+ <li>Technology excites me and I have always been eager to bring value to the tech world through my hard work and commitment to quality.</li>
 
 <h3 align="left">Languages and Tools: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="49px"></h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
