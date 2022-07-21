@@ -4,10 +4,10 @@
 
 ### About me 
 <ul>
- <li>🎓 I am a Sophomore pursuing Btech at MITAOE Pune</li>
+ <li>🎓 I am a pre-final year student pursuing Btech at MITAOE Pune</li>
  <li>👨‍💻 I am passionate about Software Development and Artificial Intelligence.</li>
- <li>   Technology excites me and I have always been eager to bring value to the tech world through my hard work and commitment to quality.</li>
- <li>👨‍💻 Written my first code at age of 13.</li>
+ <li>Currently I am interning at Microsoft</li>
+ <li>👨‍💻 Written my first code at 13.</li>
  
  
 <h3 align="left">Languages and Tools: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"></h3>
