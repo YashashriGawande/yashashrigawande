@@ -6,7 +6,6 @@
 <ul>
  <li>🎓 I am a pre-final year student pursuing Btech at MITAOE Pune</li>
  <li>👨‍💻 I am passionate about Software Development and Artificial Intelligence.</li>
- <li>Currently I am interning at Microsoft</li>
  <li>👨‍💻 Written first code at 13.</li>
  
  
