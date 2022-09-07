@@ -4,9 +4,12 @@
 
 ### About me 
  
-- I am currently studying in 2nd year of my college in BTech Computer Science Engineering brach with an overall CGPA of 9.61. 
-- I received the Google Women Engineering Scholarship by ranking in Top 500 for the year 2021.
-- I 
+- I am currently studying in pre-final year of my college in BTech Computer at MITAOE Pune. 
+- Currently I am working as an AI/ML intern at AICTE.
+- Previously I have worked as an Azure intern at Microsoft.
+- I am a Google Cloud Facilitator.
+- I am a 5 star coder in CPP and python on hackerrank.
+- I emerged in top 40 teams in Error 404 Hackathon.
 
 ### My Tech Stack
 
