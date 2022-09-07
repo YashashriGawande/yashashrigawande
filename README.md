@@ -1,18 +1,31 @@
-### Hi there, I'm Yashashri Gawande 
+<h1> Hello There! I am Yashashri Gawande </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="yashashri-gawande" height="400" />
 
 ### About me 
-<ul>
- <li>🎓 I am a pre-final year student pursuing Btech at MITAOE Pune</li>
- <li>👨‍💻 I am passionate about Software Development and Artificial Intelligence.</li>
- <li>👨‍💻 Written first code at 13.</li>
  
- 
-<h3 align="left">Languages and Tools: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20px"></h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- I am currently studying in 2nd year of my college in BTech Computer Science Engineering brach with an overall CGPA of 9.61. 
+- I received the Google Women Engineering Scholarship by ranking in Top 500 for the year 2021.
+- I 
 
+### My Tech Stack
+
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-F9AB00?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
  
 ### Read My Blogs  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px" />
  - [Machine Learning : A Subset of AI](https://medium.com/@yashashrigawande02/machine-learning-a-subset-of-ai-7f11ee460490)
