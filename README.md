@@ -4,7 +4,7 @@
 
 ### About me 
  
-- I am currently studying in pre-final year of my college in BTech Computer at MITAOE Pune. 
+- I am currently studying in pre-final year of my college in BTech at MITAOE Pune. 
 - Currently I am working as an AI/ML intern at AICTE.
 - Previously I have worked as an Azure intern at Microsoft.
 - I am a Google Cloud Facilitator.
