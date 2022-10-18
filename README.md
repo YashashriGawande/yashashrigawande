@@ -6,7 +6,7 @@
  
 - I am currently studying in pre-final year of my college in BTech at MITAOE Pune. 
 - I am a Google Cloud Facilitator.
-- I am a 5 star coder in CPP and python on hackerrank.
+- 5 star coder in CPP and Python on Hackerrank.
 
 ### My Tech Stack
 
