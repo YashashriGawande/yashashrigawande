@@ -4,7 +4,7 @@
 
 ### About me 
  
-- I am currently studying in pre-final year of my college in BTech at MITAOE Pune. 
+- A pre-final year undergraduate student at MITAOE Pune.
 - I am a Google Cloud Facilitator.
 - 5 star coder in CPP and Python on Hackerrank.
 
@@ -42,8 +42,5 @@
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
-## ❤ Viewers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YashashriGawande">
-</a>
+
 
