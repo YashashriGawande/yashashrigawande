@@ -1,4 +1,4 @@
-<h1> Hello There! I am Yashashri Gawande </h1>
+<h1> Hi There! I am Yashashri Gawande </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="yashashri-gawande" height="400" />
 
