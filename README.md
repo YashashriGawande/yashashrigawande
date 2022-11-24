@@ -19,7 +19,6 @@
 ![image](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
