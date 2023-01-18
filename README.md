@@ -40,8 +40,6 @@
 ![Yashashri's github stats](https://github-readme-stats.vercel.app/api?username=YashashriGawande&show_icons=true&hide_border=true)
 <br />
 
-<a href="https://github.com/YashashriGawande/github-readme-activity-graph"><img alt="Yashashri Gawande's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YashashriGawande&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
 Made with ❤️ by Yashashri
