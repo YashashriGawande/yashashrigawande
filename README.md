@@ -37,6 +37,16 @@
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/yashashrig/) &nbsp; &nbsp; [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/Yashashritwt) &nbsp; &nbsp;   [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](http://github.com/YashashriGawande) &nbsp; &nbsp;   [<img src="https://user-images.githubusercontent.com/69964629/117806794-67aad280-b278-11eb-98e5-1f00b6c77b84.png" alt="Medium Logo" width="30">](https://medium.com/@yashashrigawande02) &nbsp; &nbsp; [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:yashashrigawande02@gmail.com)
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/YashashriGawande"><img src="https://github-readme-stats.vercel.app/api?username=YashashriGawande&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YashashriGawande's GitHub stats" /></a>
+
+<a href="http://www.github.com/YashashriGawande"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YashashriGawande&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/YashashriGawande"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=YashashriGawande&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/YashashriGawande" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashashriGawande&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 
 
