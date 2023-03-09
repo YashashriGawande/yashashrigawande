@@ -9,7 +9,6 @@
 - 🤔 I’m really passionate about learning new skills and technology
 - 💬 Ask me about any tech related query.
 - 😄 Moto: NEVER GIVE UP.
-- I am a Google Cloud Facilitator.
 - I have earned a 5 star badge in CPP and Python on Hackerrank.
 
 ### My Tech Stack
