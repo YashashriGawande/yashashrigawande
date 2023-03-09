@@ -6,11 +6,11 @@
  
 - 🔭 I’m currently 3rd year undergrad at MITAOE, Pune.
 - 🌱 I’m currently learning DSA.
-- 🤔 I’m really passionate about Competitive Programming
+- 🤔 I’m really passionate about learning new skills and technology
 - 💬 Ask me about any tech related query.
 - 😄 Moto: NEVER GIVE UP.
 - I am a Google Cloud Facilitator.
-- 5 star coder in CPP and Python on Hackerrank.
+- I have earned a 5 star badge in CPP and Python on Hackerrank.
 
 ### My Tech Stack
 
