@@ -4,7 +4,11 @@
 
 ### About Me 
  
-- A pre-final year undergraduate student at MITAOE Pune.
+- 🔭 I’m currently 3rd year undergrad at MITAOE, Pune.
+- 🌱 I’m currently learning DSA.
+- 🤔 I’m really passionate about Competitive Programming
+- 💬 Ask me about any tech related query.
+- 😄 Moto: NEVER GIVE UP.
 - I am a Google Cloud Facilitator.
 - 5 star coder in CPP and Python on Hackerrank.
 
