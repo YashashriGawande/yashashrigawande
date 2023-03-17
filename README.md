@@ -5,7 +5,6 @@
 ### About Me 
  
 - 🔭 I’m currently 3rd year undergrad at MITAOE, Pune.
-- 🌱 I’m currently learning DSA.
 - 🤔 I’m really passionate about learning new skills and technology
 - 💬 Ask me about any tech related query.
 - 😄 Moto: NEVER GIVE UP.
