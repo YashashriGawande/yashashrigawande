@@ -4,9 +4,8 @@
 
 ### About Me 
  
-- Final year undergrad at MITAOE, Pune.
+- Final year undergraduate student at MITAOE, Pune.
 - I’m passionate about learning new skills and technology
-- Ask me about any tech related query.
 - Moto: NEVER GIVE UP.
 
 ### My Tech Stack
