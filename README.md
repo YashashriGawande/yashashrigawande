@@ -4,7 +4,6 @@
 
 ### About Me 
  
-- Final year undergraduate student at MITAOE, Pune.
 - I’m passionate about learning new skills and technology
 - Moto: NEVER GIVE UP.
 
